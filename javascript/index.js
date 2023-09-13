@@ -15,7 +15,7 @@ function renderizarNoticias(){
               <i class="fa fa-user"></i>
               ${noticia.autor}
             </p>
-            <p class="card-text m-0 ">
+            <p class="text card-text m-0 ">
               ${noticia.titulo}
             </p>
           </div>
